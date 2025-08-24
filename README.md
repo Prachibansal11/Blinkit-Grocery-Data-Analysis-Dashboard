@@ -91,7 +91,7 @@ Blinkit-Business-Analytics-Dashboard/
 
 ## **📷 Dashboard Preview**  
 
-[!BANNER](https://githubusercontent.com/Prachibansal11/Blinkit-Grocery-Data-Analysis-Dashboard/9b3f11efc3c0b41adc0fd768ae7c844511a57b64/blinkit%20image.png)
+![Banner](https://raw.githubusercontent.com/Prachibansal11/Blinkit-Grocery-Data-Analysis-Dashboard/9b3f11efc3c0b41adc0fd768ae7c844511a57b64/blinkit%20image.png)
 ---
 
 ## **✅ How to Use**  
